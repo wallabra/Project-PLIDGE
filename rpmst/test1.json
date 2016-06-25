@@ -1,0 +1,33 @@
+{
+  "wad": "wads/test.wad",
+  "map": "MAP01",
+  "texmap": {
+    "MARBLE2": 0,
+    "STEP6": 1,
+    "SUPPORT2": 2,
+    "PANCASE2": 3,
+    "BIGBRIK1": 4,
+    "BFALL1": 5,
+    "ZIMMER4": 6,
+    "BSTONE2": 7,
+    "-": -1
+  },
+  "flatmap": {
+    "BLOOD1": 0,
+    "FLAT1_2": 1,
+    "CEIL5_1": 2,
+    "FLOOR5_4": 3,
+    "MFLR8_2": 4,
+    "FLOOR1_6": 5,
+    "RROCK10": 6,
+    "FLOOR0_1": 7,
+    "CEIL1_1": 8
+  },
+  "start": 60,
+  "ends": [
+    65,
+    70
+  ],
+  "type": "room",
+  "theme": "hell"
+}

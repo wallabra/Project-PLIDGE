@@ -1,0 +1,66 @@
+type = "Doom Builder Map Settings Configuration";
+gameconfig = "Boom_Doom2Doom.cfg";
+strictpatches = 0;
+
+maps
+{
+	
+	MAP01
+	{
+		
+		plugins
+		{
+			
+			lighting
+			{
+				
+				lights
+				{
+				}
+			}
+			
+			threedfloormode
+			{
+				
+				slopes
+				{
+				}
+			}
+		}
+		
+		resources
+		{
+		}
+		defaultfloortexture = "FLOOR5_4";
+		defaultceiltexture = "FLOOR1_6";
+		defaulttoptexture = "MARBLE2";
+		defaultwalltexture = "MARBLE2";
+		defaultbottomtexture = "MARBLE2";
+		custombrightness = 196;
+		customfloorheight = 0;
+		customceilheight = 128;
+		overridefloortexture = false;
+		overrideceiltexture = false;
+		overridetoptexture = false;
+		overridemiddletexture = false;
+		overridebottomtexture = false;
+		overridefloorheight = false;
+		overrideceilheight = false;
+		overridebrightness = false;
+		uselongtexturenames = false;
+		viewpositionx = -78.10162f;
+		viewpositiony = 564.8758f;
+		viewscale = 1.0985f;
+		
+		grid
+		{
+			background = "";
+			backsource = 0;
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			gridsize = 16;
+		}
+	}
+}

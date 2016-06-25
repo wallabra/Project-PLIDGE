@@ -1,0 +1,23 @@
+{
+  "wad": "wads/test1.wad",
+  "map": "MAP01",
+  "texmap": {
+    "MARBLE2": 0,
+    "SUPPORT3": 8,
+    "BIGDOOR5": 9,
+    "DOORSTOP": 10,
+    "DOORTRAK": 11,
+    "-": -1
+  },
+  "flatmap": {
+    "FLOOR5_4": 3,
+    "FLOOR1_6": 5,
+    "FLAT5_1": 9
+  },
+  "start": -1,
+  "ends": [
+    5
+  ],
+  "type": "room",
+  "theme": "hell"
+}
